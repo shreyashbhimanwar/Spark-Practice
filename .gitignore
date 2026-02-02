@@ -1,0 +1,12 @@
+# sprark files
+Dependencies/
+
+# venv directories
+spark-venv/
+spark-venv-py310/
+
+# datasets
+movie-lens-dataset/
+movie-lens-dataset.zip
+ml-100k/
+fakefriends.csv
